@@ -8,7 +8,7 @@
 
 - [openfaas/nats-queue-worker](https://github.com/openfaas/nats-queue-worker/commits?author=feifeiiiiiiiiiii) NATS Streaming integration for OpenFaaS 
 
-- [alash3al/sqler](https://github.com/alash3al/sqler/commits?author=feifeiiiiiiiiiii) write APIs using direct SQL queries with no hassle, let's rethink about SQL
+- [alash3al/sqler](https://github.com/alash3al/sqler/pull/20) write APIs using direct SQL queries with no hassle, let's rethink about SQL
 
 - [alash3al/redix](https://github.com/alash3al/redix/commits?author=feifeiiiiiiiiiii) a persistent real-time key-value store, with the same redis protocol with powerful features
 
